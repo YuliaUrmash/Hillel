@@ -1,0 +1,17 @@
+{
+    "name": "hillel/hw",
+    "autoload": {
+        "psr-4": {
+            "Hillel\\Hw\\": "src/",
+            "App\\Http\\": "App/Http",
+            "App\\Models\\": "App/Models"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yulia Urmash",
+            "email": "yuliaurmash@gmail.com"
+        }
+    ],
+    "require": {}
+}
